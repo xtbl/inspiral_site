@@ -3,6 +3,6 @@ Plan
 *-definir estructura => 	1-home-A.psd
 *-definir textos =>	https://docs.google.com/document/d/1w8cdHPsjDnoXKtRovMYC_8rQ2x4y1SjzGK_BWd7zCEo/edit 
 *-definir look =>	template
--setear estructura de trabajo (version control)
+*-setear estructura de trabajo (version control)
 -modificar template acorde a estructura
 
