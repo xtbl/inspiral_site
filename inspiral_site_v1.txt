@@ -4,5 +4,8 @@ Plan
 *-definir textos =>	https://docs.google.com/document/d/1w8cdHPsjDnoXKtRovMYC_8rQ2x4y1SjzGK_BWd7zCEo/edit 
 *-definir look =>	template
 *-setear estructura de trabajo (version control)
--modificar template acorde a estructura
+*-modificar template acorde a estructura
+-repartir trabajo
+	imagenes:necesitamos min. 3 imagenes de 960x370px con descripcion/caption breve.
+	textos: los textos no concuerdan y no podemos poner textos copiados en nuestro sitio. necesitamos textos/contenido para Servicios, Proceso, Equipo, En qué creemos.
 
