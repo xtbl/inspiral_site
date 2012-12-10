@@ -270,7 +270,7 @@ img, iframe {
 	margin: 0 auto;
 }
 #logo {
-	margin-top: 35px;
+	margin-top: 16px;
 }
 #logo, #logo a {
 	float: left;
@@ -388,7 +388,7 @@ img, iframe {
 #header-wrapper .fixed { }
 .fixed .header { border-bottom: none; }
 .fixed #logo { display:none; }
-.fixed .logo2 { position:absolute; left: 0px; top:12px; }
+.fixed .logo2 { position:absolute; left: 0px; top:4px; }
 .fixed #primary-menu ul { padding: 0; }
 .fixed #primary-menu ul li { background: url(../images/sprite.png) no-repeat scroll right -149px transparent; }
 .fixed #primary-menu ul li:last-child {  background: none; }
